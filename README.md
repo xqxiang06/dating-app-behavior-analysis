@@ -50,6 +50,7 @@ This study investigates:
 - **Positive sentiment comes mainly from users who successfully matched or started relationships**
 - **User frustration spikes around monetization features**, such as pay-to-message or subscription requirements
 
+![Statistical Images](dating_pic.png)
 ---
 
 ## 🧰 Tools & Libraries Used
