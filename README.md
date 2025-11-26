@@ -11,6 +11,11 @@ UCLA Stats 20 — Summer Session
 
 ---
 
+## 👐🏼 Inspired by
+https://ucladatares.medium.com/datarizz-a-statistical-deep-dive-into-dating-apps-1b70f3546d5b
+
+---
+
 ## 🔍 Project Focus
 
 This study investigates:
@@ -28,9 +33,9 @@ This study investigates:
 | File | Description |
 |------|-------------|
 | `DatingApp Reviews.Rmd` | Main R Markdown script containing the full analysis |
-| `Stats_20_Group_Report.pdf` | Course submission PDF (contains additional documentation) |
-| `DatingApp-Reviews.html` *(if present locally)* | HTML version of the analysis |
-| `datas-csv` or dataset file | Cleaned dataset used for the analysis |
+| `Stats_20_Group_Report.pdf` | Course submission full report (contains additional documentation) |
+| `DatingApp-Reviews.pdf` | pdf version of the analysis |
+| `datas-csv` or dataset files | Cleaned dataset used for the analysis |
 | `dating_pic.png` | Plot image referenced in analysis |
 
 > ⚠️ Some files may not display preview in GitHub due to size, but can be downloaded and viewed locally.
